@@ -1,4 +1,4 @@
-# remotsim
+# remotism
 [書籍「Remotism」](https://zenn.dev/sta/books/remotism-book) 補足用のリポジトリです。
 
 ## コンテンツ
